@@ -1,15 +1,15 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
+    "name":"Azzmurr staff",
+    "id":"com.azzmurr.staff",
     "url":"https://vrchat-community.github.io/template-package-listing/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"trofum@gmail.com",
+        "name":"Azzmurr",
+        "url":""
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Some custom staff for myself",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"http://github.com/Azzmurr/vcc",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
