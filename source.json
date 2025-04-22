@@ -1,13 +1,13 @@
 {
-    "name":"Azzmurr staff",
-    "id":"com.azzmurr.staff",
+    "name":"Azzmurr VCC stuf",
+    "id":"com.azzmurr.stuff",
     "url":"http://github.com/Azzmurr/vcc/index.json",
     "author":{
         "email":"trofum@gmail.com",
         "name":"Azzmurr",
         "url":""
     },
-    "description":"Some custom staff for myself",
+    "description":"Some custom stuff for myself",
     "infoLink":{
         "url":"http://github.com/Azzmurr/vcc",
         "text":"View on GitHub"
