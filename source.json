@@ -13,5 +13,7 @@
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":[]
+    "githubRepos":[
+        "Azzmurr/vpm-texture-manager"
+    ]
 }
