@@ -14,8 +14,6 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "Azzmurr/vpm-texture-manager",
-        "Azzmurr/vpm-transformation-controller",
-        "Azzmurr/vpm-avatar-bootstrap"
+        "Azzmurr/vpm-avatar-utils"
     ]
 }
